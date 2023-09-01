@@ -58,6 +58,7 @@ const FormApp = () => {
             selectedOption={selectedOptions[currentPage]}
             handleChange={handleOptionChange}
           />
+        <br/>
           <button className='prebtn' onClick={prevPage} disabled={currentPage === 0}>
             Previous
           </button>
