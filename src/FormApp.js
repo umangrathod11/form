@@ -6,18 +6,18 @@ import ResultPage from './ResultPage'; // Import the ResultPage component
 const questions = [
   {
     question: 'Question 1: India Prime-Minister Currently?',
-    options: ['Narendra Modi', 'Barack Obama', 'Xi Jinping', 'Yogi Adityanath'],
-    correctAnswer: 'Narendra Modi', // Add correct answer here
+    options: ['Narendra Modi', 'Barack Obama', ' Jinping', 'Yogi Adityanath'],
+    correctAnswer: 'Narendra Modi', 
   },
   {
     question: 'Question 2: Which State is Somanath Mandir in?',
     options: ['Uttarakhand', 'Meghalaya', 'Kerala', 'Gujarat'],
-    correctAnswer: 'Gujarat', // Add correct answer here
+    correctAnswer: 'Gujarat', 
   },
   {
     question: 'Question 3: In which place is the Taj Mahal located?',
     options: ['Agra', 'Mathura', 'Punjab', 'Ayodhya'],
-    correctAnswer: 'Agra', // Add correct answer here
+    correctAnswer: 'Agra', 
   },
 ];
 
